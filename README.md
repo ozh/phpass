@@ -1,13 +1,16 @@
 Openwall Phpass, modernized
 ===========================
 
-This is Openwall's Phpass, based on the 0.3 release, but modernized slightly:
+[![Build Status](https://secure.travis-ci.org/hautelook/phpass.png?branch=master)](http://travis-ci.org/hautelook/phpass)
+
+This is Openwall's [Phpass](http://openwall.com/phpass/), based on the 0.3 release, but modernized slightly:
 
 - Namespaced
 - Composer support (Autoloading)
 - PHP 5 style
+- Unit Tested
 
-The changes are minimal and only stylistic. The source code is in the public domain. I claim no ownership, but needed it for one of my projects, and wanted to make it available to other people as well. 
+The changes are minimal and only stylistic. The source code is in the public domain. We claim no ownership, but needed it for one of our projects, and wanted to make it available to other people as well. 
 
 ## Installation ##
 
