@@ -1,6 +1,6 @@
 <?php
 
-namespace Openwall\Phpass;
+namespace Hautelook\Phpass;
 
 /**
  *

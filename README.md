@@ -15,7 +15,7 @@ Add this requirement to your `composer.json` file and run `composer.phar install
 
     {
         "require": {
-            "openwall/phpass": "dev-master"
+            "hautelook/phpass": "dev-master"
         }
     }
 
@@ -28,7 +28,7 @@ The following example shows how to hash a password (to then store the hash in th
 
 namespace Your\Namespace;
 
-use Openwall\Phpass\PasswordHash;
+use Hautelook\Phpass\PasswordHash;
 
 require_once(__DIR__ . "/vendor/autoload.php");
  

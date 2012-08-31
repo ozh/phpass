@@ -1,9 +1,9 @@
 {
-    "name": "openwall/phpass",
+    "name": "hautelook/phpass",
     "type": "library",
     "version": "0.3.0",
     "time" : "2012-08-31",
-    "license" : "Apache2",
+    "license" : "Public Domain",
     "description": "Portable PHP password hashing framework",
     "keywords": ["Blowfish", "crypt", "password", "security"],
     "homepage": "https://github.com/zircote/Hal/",
@@ -18,6 +18,6 @@
         "php": ">=5.3.3"
     },
     "autoload": {
-        "psr-0": {"Openwall": "src/"}
+        "psr-0": {"Hautelook": "src/"}
     }
 }
