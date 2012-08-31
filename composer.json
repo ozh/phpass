@@ -6,7 +6,7 @@
     "license" : "Public Domain",
     "description": "Portable PHP password hashing framework",
     "keywords": ["Blowfish", "crypt", "password", "security"],
-    "homepage": "https://github.com/zircote/Hal/",
+    "homepage": "http://github.com/hautelook/phpass/",
     "authors": [
         {
             "name" : "Solar Designer",
