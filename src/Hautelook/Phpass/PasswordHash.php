@@ -309,6 +309,6 @@ class PasswordHash
             $hash = crypt($password, $stored_hash);
         }
 
-        return $hash == $stored_hash;
+        return $hash === $stored_hash;
     }
 }
