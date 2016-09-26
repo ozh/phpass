@@ -6,7 +6,7 @@ namespace Hautelook\Phpass;
  *
  * Portable PHP password hashing framework.
  *
- * Version 0.4-nrhl / modified by Nordstromrack.com | HauteLook
+ * Version 1.0.0 - modified by Nordstromrack.com | HauteLook
  *
  * Change Log:
  *
