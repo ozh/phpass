@@ -22,7 +22,7 @@
             <directory suffix=".php">../</directory>
         </blacklist>
         <whitelist>
-            <directory suffix=".php">../src/Hautelook</directory>
+            <directory suffix=".php">../src/Ozh</directory>
             <exclude>
                 <directory suffix=".phtml">../</directory>
                 <file>./bootstrap.php</file>
