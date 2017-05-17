@@ -1,8 +1,8 @@
 <?php
 
-// namespace Hautelook\Phpass\Tests;
+// namespace Ozh\Phpass\Tests;
 
-use Hautelook\Phpass\PasswordHash;
+use Ozh\Phpass\PasswordHash;
 
 /**
  * 
