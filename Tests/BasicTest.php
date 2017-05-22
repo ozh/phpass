@@ -1,13 +1,14 @@
 <?php
 
-// namespace Ozh\Phpass\Tests;
+namespace Ozh\Phpass\Tests;
 
 use Ozh\Phpass\PasswordHash;
+use PHPUnit\Framework\TestCase;
 
 /**
  * 
  */
-class BasicTest extends \PHPUnit_Framework_TestCase
+class BasicTest extends TestCase
 {
 	const PORTABLE_HASH = '$P$9IQRaTwmfeRo7ud9Fh4E2PdI0S3r.L0';
  	public function testCorrectHash()
