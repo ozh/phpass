@@ -14,4 +14,4 @@ php:
 before_script:
     - composer install
 
-script: cd Tests && phpunit --configuration phpunit.xml --coverage-text
+script: composer test
