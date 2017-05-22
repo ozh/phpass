@@ -23,5 +23,8 @@
     },
     "autoload-dev": {
         "psr-4": {"Ozh\\Phpass\\Tests\\": "Tests/"}
+    },
+    "scripts": {
+        "test": "cd Tests && phpunit --configuration phpunit.xml --coverage-text"
     }
 }
