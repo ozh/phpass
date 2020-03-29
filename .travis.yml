@@ -15,5 +15,6 @@ matrix:
 
 before_script:
   - phpenv config-rm xdebug.ini
+  - composer install
   
-script: cd Tests && phpunit --configuration phpunit.xml
+script: composer test
