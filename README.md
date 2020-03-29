@@ -9,7 +9,9 @@ This is Openwall's [Phpass](http://openwall.com/phpass/), based on the 0.5 relea
 - Composer support (Autoloading)
 - Unit Tested
 
-The modernization has been done by Hautelook, from whom I stole this library to repackage it for PHP 5.3 to 7.1 compatibility in a single file and branch (Hautelook's port consisting of two branches, one for PHP 5.3 to 5.5, and another one for 5.6+)
+The modernization has been done by Hautelook, from whom I stole this library to originally repackage it for PHP 5.3 to 7.0 compatibility in a single file and branch (Hautelook's port consisting of two branches, one for PHP 5.3 to 5.5, and another one for 5.6+).
+
+Current version requires PHP 5.6+
 
 ## Installation ##
 
