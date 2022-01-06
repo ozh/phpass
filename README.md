@@ -1,7 +1,7 @@
 Openwall Phpass, modernized
 ===========================
 
-[![Build Status](https://secure.travis-ci.org/ozh/phpass.png?branch=master)](http://travis-ci.org/ozh/phpass)
+[![Build Status](https://app.travis-ci.com/ozh/phpass.svg?branch=master)](https://app.travis-ci.com/github/ozh/phpass)
 
 This is Openwall's [Phpass](http://openwall.com/phpass/), based on the 0.5 release, but modernized slightly:
 
